@@ -4,22 +4,22 @@ body {
 }
 
 #wrapper {
-	background-color: rgba(255, 255, 255, 0.5);
+	background-color: rgba(0, 0, 0, 0.5);
 	margin: 100px auto;
-	height: 300px;
-	width: 300px;
+	padding: 10px;
+	border: none;
 }
 
 h1 {
-	font-family: 'Bitter', Georgia, serif;
-	font-size: 30em;
+	font-family: 'Montserrat', Georgia, serif;
+	font-size: 5em;
 	color: #ffffff;
 	text-align: center;
 }
 
 h2 {
-	font-family: 'Roboto Slab', helvetica, arial, sans-serif;
-	font-size: 25em;
+	font-family: 'Raleway', helvetica, arial, sans-serif;
+	font-size: 2em;
 	color: #ffffff;
 }
 
