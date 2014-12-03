@@ -118,10 +118,12 @@ footer {
 	#nav {
 		float: right;
 		display: inline;
+		clear: both;
 	}
 	#logo {
 		display: inline;
 		float: left;
+		clear: both;
 	}
 	section {
 		width: 95%;
