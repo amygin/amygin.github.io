@@ -41,8 +41,6 @@ nav a {
 	display: inline;
 }
 .nav_lg li a {
-	display: inline;
-	padding: 1em;
 	text decoration: none;
 	color: #333333;
 }
@@ -55,14 +53,13 @@ nav a {
 	background: #ffffff;
 }
 .nav_sm li a {
-	padding: 1em;
 	text-decoration: none;
 	color: #333333;
 }
 #menu-toggle {
 	display: none;
 }
-#menu- {
+#menu {
 	display: none;
 }
 #menu-toggle:checked + #menu {
