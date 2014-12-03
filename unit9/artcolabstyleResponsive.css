@@ -26,6 +26,7 @@ nav {
   border-bottom: solid 1px #7f7f7f;
   text-align: center;
   display: block;
+  margin: auto;
 }
 nav a {
   text-decoration: none;
