@@ -40,6 +40,8 @@ nav a {
   text-decoration: none;
   color: #333333;
   display: inline-block;
+  margin-left: 1em;
+  margin-right: 1em;
 }
 .nav_lg ul {
 	list-style: none;
