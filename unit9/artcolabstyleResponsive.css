@@ -34,7 +34,6 @@ nav {
 nav a {
   text-decoration: none;
   color: #333333;
-  margin: .5em;
   display: inline-block;
 }
 .nav_lg ul {
@@ -52,7 +51,6 @@ nav a {
 }
 .nav_sm ul {
 	list-style: none;
-	margin: 1em;
 	background: #ffffff;
 }
 .nav_sm li a {
