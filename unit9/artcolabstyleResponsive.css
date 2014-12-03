@@ -97,9 +97,7 @@ footer {
   margin-right: auto;
   margin-left: auto;
 }
-#nav {
-	width: 2em;
-	display: block;
+<!--#nav {width: 2em; display: block;}-->
 }
 #about {
   text-align: center;
@@ -118,11 +116,7 @@ footer {
 	.nav_lg {
 		display: none;
 	}
-	#nav {
-		float: right;
-		display: inline-block;
-		clear: both;
-	}
+	<!--#nav {float: right; display: inline-block; clear: both;}-->
 	#logo {
 		display: inline-block;
 		float: left;
