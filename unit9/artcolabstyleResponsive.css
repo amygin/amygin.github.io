@@ -82,13 +82,13 @@ footer {
   bottom: 0;
 }
 #logo {
-  width: 200px;
+  width: 16em;
   display: block;
   margin-right: auto;
   margin-left: auto;
 }
 #nav {
-	width: 10px;
+	width: 2em;
 	display: block;
 }
 #about {
@@ -107,5 +107,13 @@ footer {
 	}
 	.nav_lg {
 		display: none;
+	}
+	#nav {
+		float: right;
+		display: inline;
+	}
+	#logo {
+		display: inline;
+		float: left;
 	}
 }
