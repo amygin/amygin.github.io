@@ -30,12 +30,11 @@ nav {
 nav a {
   text-decoration: none;
   color: #333333;
-  margin: 1em 1.5em 1em 1.5em;
+  margin: .5em;
   display: inline-block;
 }
 .nav_lg ul {
 	list-style: none;
-	margin: 1em;
 }
 .nav_lg li {
 	display: inline;
