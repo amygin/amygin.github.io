@@ -1,0 +1,114 @@
+h1, h2, h3 {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #333333;
+  display: block;
+}
+h1 {
+  font-size: 2.462em;
+  font-weight: 600;
+}
+h2 {
+  font-size: 2em;
+  font-weight: 400;
+}
+h3 {
+  font-size: 1.538em;
+  font-weight: 300;
+}
+body {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+nav {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.538em;
+  font-weight: 300;
+  border-bottom: solid 1px #7f7f7f;
+  text-align: center;
+  display: block;
+}
+nav a {
+  text-decoration: none;
+  color: #333333;
+  margin: 10px 30px 10px 30px;
+  display: inline-block;
+}
+.nav_lg ul {
+	list-style: none;
+	margin: 1em;
+}
+.nav_lg li {
+	display: inline;
+}
+.nav_lg li a {
+	display: inline;
+	padding: 1em;
+	text decoration: none;
+	color: #333333;
+}
+.nav_sm {
+	display: none;
+}
+.nav_sm ul {
+	list-style: none;
+	margin: 1em;
+	background: #ffffff;
+}
+.nav_sm li a {
+	padding: 1em;
+	text-decoration: none;
+	color: #333333;
+}
+#menu-toggle {
+	display: none;
+}
+#menu- {
+	display: none;
+}
+#menu-toggle:checked + #menu {
+	display: block;
+}
+div {
+  padding: 2em;
+}
+section {
+  overflow: auto;
+}
+footer {
+  width: 100%;
+  background: #7f7f7f;
+  text-align: center;
+  padding: 1em 0;
+  margin-top: .3em;
+  clear: both;
+  position: absolute;
+  bottom: 0;
+}
+#logo {
+  width: 200px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+#nav {
+	width: 10px;
+	display: block;
+}
+#about {
+  text-align: center;
+}
+
+@media screen and (max-width: 580px) {
+	nav{
+		width: 90%;
+		margin: 1em;
+		float: right;
+		clear: both;
+	}
+	.nav_sm {
+		display: block;
+	}
+	.nav_lg {
+		display: none;
+	}
+}
