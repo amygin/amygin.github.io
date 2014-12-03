@@ -122,6 +122,7 @@ footer {
 		float: right;
 		display: inline;
 		clear: both;
+		top: 0;
 	}
 	#logo {
 		display: inline;
