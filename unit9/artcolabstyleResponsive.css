@@ -109,7 +109,7 @@ footer {
 
 @media screen and (max-width: 480px) {
 	nav{
-		width: 30%;
+		width: 25%;
 		display: inline;
 		margin: 1em;
 		float: right;
@@ -125,13 +125,13 @@ footer {
 		display: inline;
 	}
 	header {
-		width: 50%;
+		width: 75%;
 		display: inline;
 		float: left;
 	}
 		
 	#logo {
-		width: 50%;
+		width: 75%;
 		display: inline;
 		float: left;
 	}
