@@ -116,7 +116,7 @@ footer {
 		clear: both;
 	}
 	.nav_sm {
-		display: block;
+		display: inline;
 	}
 	.nav_lg {
 		display: none;
