@@ -131,9 +131,7 @@ footer {
 		float: left;
 	}
 	section {
-		width: 95%;
-	}
-	#about {
+		width: 100%;
 		border-top: solid 1px #7f7f7f;
 	}
 }
