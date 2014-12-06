@@ -133,4 +133,7 @@ footer {
 	section {
 		width: 95%;
 	}
+	#about {
+		border-top: solid 1px #7f7f7f;
+	}
 }
