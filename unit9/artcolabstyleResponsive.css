@@ -113,8 +113,6 @@ footer {
 		display: inline;
 		margin: 1em;
 		float: right;
-		top: 0;
-		clear: both;
 	}
 	.nav_sm {
 		display: inline;
@@ -125,13 +123,11 @@ footer {
 	#nav {
 		float: right;
 		display: inline;
-		clear: both;
 	}
 	header {
 		width: 50%;
 		display: inline;
 		float: left;
-		clear: both;
 	}
 		
 	#logo {
