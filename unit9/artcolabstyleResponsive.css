@@ -127,9 +127,8 @@ footer {
 		clear: both;
 	}
 	#logo {
-		display: inline-block;
+		display: inline;
 		float: left;
-		clear: both;
 	}
 	section {
 		width: 95%;
