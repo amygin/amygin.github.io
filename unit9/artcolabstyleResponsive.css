@@ -107,7 +107,7 @@ footer {
 
 @media screen and (max-width: 480px) {
 	nav{
-		width: 90%;
+		width: 30%;
 		margin: 1em;
 		float: right;
 		clear: both;
