@@ -124,7 +124,7 @@ footer {
 	}
 	#nav {
 		float: right;
-		display: inline-block;
+		display: inline;
 		clear: both;
 	}
 	header {
