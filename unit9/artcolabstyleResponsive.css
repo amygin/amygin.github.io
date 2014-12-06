@@ -34,7 +34,6 @@ nav {
   font-family: 'Josefin Sans', sans-serif;
   font-size: 1.538em;
   font-weight: 300;
-  border-bottom: solid 1px #7f7f7f;
   text-align: center;
   display: block;
 }
@@ -44,6 +43,9 @@ nav a {
   display: inline-block;
   margin-left: 1em;
   margin-right: 1em;
+}
+.nav_lg {
+	border-bottom: solid 1px #7f7f7f;
 }
 .nav_lg ul {
 	list-style: none;
@@ -57,6 +59,7 @@ nav a {
 }
 .nav_sm {
 	display: none;
+	border-bottom: solid 1px #7f7f7f;
 }
 .nav_sm ul {
 	list-style: none;
@@ -110,6 +113,7 @@ footer {
 		width: 30%;
 		margin: 1em;
 		float: right;
+		clear: both;
 	}
 	.nav_sm {
 		display: block;
