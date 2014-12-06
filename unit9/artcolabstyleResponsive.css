@@ -59,7 +59,6 @@ nav a {
 }
 .nav_sm {
 	display: none;
-	border-bottom: solid 1px #7f7f7f;
 }
 .nav_sm ul {
 	list-style: none;
@@ -113,6 +112,7 @@ footer {
 		width: 30%;
 		margin: 1em;
 		float: right;
+		top: 0;
 		clear: both;
 	}
 	.nav_sm {
