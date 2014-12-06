@@ -126,6 +126,12 @@ footer {
 		display: inline-block;
 		clear: both;
 	}
+	header {
+		width: 50%;
+		display: inline;
+		float: left;
+	}
+		
 	#logo {
 		display: inline;
 		float: left;
